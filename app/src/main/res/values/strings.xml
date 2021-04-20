@@ -2,4 +2,5 @@
     <string name="app_name">FotosRecursosApp</string>
     <string name="description_string">Imagem a ser selecionada pelo usuário</string>
     <string name="select_image_btn">Selecione uma imagem</string>
+    <string name="take_a_picture">Tirar uma foto</string>
 </resources>
